@@ -1,7 +1,3 @@
-Here’s a clean and well-structured `README.md` file for your GitHub project [`Tic_Tac_Toe`](https://github.com/ankit-2222/Tic_Tac_Toe):
-
----
-
 ```markdown
 # ❌⭕ Tic-Tac-Toe ⭕❌
 
