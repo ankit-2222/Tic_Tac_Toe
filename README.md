@@ -61,10 +61,6 @@ Tic_Tac_Toe/
 
 Developed with ❤️ by [Ankit Mahapatra](https://github.com/ankit-2222)
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Enjoy the game and feel free to contribute or suggest improvements! 😄
